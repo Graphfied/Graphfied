@@ -1,7 +1,7 @@
 - 👋 Hi,
-- 👀 I’m interested in fivem server/scripts/customframework
-- 🌱 I’m currently learning Game development
-- 💞️ I’m looking to collaborate on FiveM Devs
+-  My Name is Fahad Ghouri and i'm full stack developer / Game developer
+-
+- 
 -
 
 <!---
