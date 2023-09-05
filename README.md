@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Fahad Ghouri</a></b>
+                <b><a target="_blank" href="https://dev.to/fahadhghouri">Fahad Ghouri</a></b>
         </samp>
 </h3>
 
@@ -44,7 +44,7 @@
  <a href="https://linkedin.com/in/fahadghouri" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fahad"/>
  </a>
- <a href="https://dev.to/fahadghouri" target="_blank">
+ <a href="https://dev.to/fahadhghouri" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Fahad" />
  </a>
  <a href="https://twitter.com/No_Humanityleft" target="_blank">
