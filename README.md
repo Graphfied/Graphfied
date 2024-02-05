@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
- <a href="https://fahadghouri-portfolio.vercel.app/" target="blank">
+ <a href="https://fahadghouri-portfolio-v1.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="fahad" />
  </a>
  <a href="https://linkedin.com/in/fahadhghouri" target="_blank">
