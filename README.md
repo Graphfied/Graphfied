@@ -118,13 +118,13 @@
 
 <p align="center">
   <a href="https://github.com/Graphfied">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Graphfied&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Graphfied&theme=radical&border=7F3FBF&background=0D1117" alt="Fahad's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Graphfied">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Graphfied&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Graphfied&theme=radical" alt="Fahad Ghouri "/>
   </a>
 </p>
 
