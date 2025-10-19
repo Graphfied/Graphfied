@@ -102,12 +102,6 @@
 
 <br/>
 
-## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Graphfied&repo=Pakverse_3D&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Graphfied/Pakverse_3D)
-[![Fahad Ghouri : Folio](https://github-readme-stats.vercel.app/api/pin/?username=Graphfied&repo=Fahad_Portfolio-PIAIC&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Graphfied/Fahad_Portfolio-PIAIC)
-[![Fahad Ghouri : Readme](https://github-readme-stats.vercel.app/api/pin/?username=Graphfied&repo=Graphfied&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Graphfied/Graphfied)
-[![Fahad Ghouri : Ecom Project](https://github-readme-stats.vercel.app/api/pin/?username=Graphfied&repo=Artic-AI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Graphfied/Hackathon-1-Ecommerce-website)
-
 <p align="left">
   <a href="https://github.com/Graphfied" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
